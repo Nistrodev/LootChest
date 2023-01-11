@@ -1,0 +1,6 @@
+name: LootChest
+version: '${project.version}'
+main: fr.nistro.lootchest.LootChest
+api-version: 1.19
+authors: [ Nistro ]
+description: plugin de génération de coffre avec des items randoms
