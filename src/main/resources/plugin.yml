@@ -4,3 +4,7 @@ main: fr.nistro.lootchest.LootChest
 api-version: 1.19
 authors: [ Nistro ]
 description: plugin de génération de coffre avec des items randoms
+commands:
+  lootchest:
+    description: Give yourself a loot chest
+    usage: '/lootchest'
