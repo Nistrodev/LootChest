@@ -1,6 +1,25 @@
 
-#Nom du coffre
-chest-name: '&6Coffre par défaut'
+#Chest title
+chest-name: '&6Default Chest'
 
-#Description du coffre
-chest-lore: Un coffre générique
+#Chest description
+chest-lore: "Un coffre générique"
+
+#Items
+items:
+  1:
+    name: "&6First ITEM #1"
+    lore:
+      - "---------------------------"
+      - "#1"
+      - "---------------------------"
+    material: Material.DIRT
+    spawn_chance: 25%
+  2:
+    name: "&6Second Item #2"
+    lore:
+      - "---------------------------"
+      - "#2"
+      - "---------------------------"
+    material: Material.DIORITE
+    spawn_chance: 75%
